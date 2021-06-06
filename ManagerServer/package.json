@@ -8,14 +8,14 @@
     },
     "repository": {
       "type": "git",
-      "url": "git+https://github.com/barosanuemailtest/ManagerServer.git"
+      "url": "git+https://github.com/wwwbrunagon/ManagerServer.git"
     },
     "author": "",
     "license": "ISC",
     "bugs": {
-      "url": "https://github.com/barosanuemailtest/ManagerServer/issues"
+      "url": "https://github.com/wwwbrunagon/ManagerServer/issues"
     },
-    "homepage": "https://github.com/barosanuemailtest/ManagerServer#readme",
+    "homepage": "https://github.com/wwwbrunagon/ManagerServer#readme",
     "devDependencies": {},
     "dependencies": {}
   }
