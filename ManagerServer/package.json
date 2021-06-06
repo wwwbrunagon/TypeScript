@@ -1,21 +1,25 @@
 {
-    "name": "manager-server",
-    "version": "1.0.0",
-    "description": "",
-    "main": "index.js",
-    "scripts": {
-      "start": "ts-node src/Launcher.ts"
-    },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/wwwbrunagon/ManagerServer.git"
-    },
-    "author": "",
-    "license": "ISC",
-    "bugs": {
-      "url": "https://github.com/wwwbrunagon/ManagerServer/issues"
-    },
-    "homepage": "https://github.com/wwwbrunagon/ManagerServer#readme",
-    "devDependencies": {},
-    "dependencies": {}
-  }
+  "name": "manager-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "ts-node src/Launcher.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wwwbrunagon/ManagerServer.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wwwbrunagon/ManagerServer/issues"
+  },
+  "homepage": "https://github.com/wwwbrunagon/ManagerServer#readme",
+  "devDependencies": {
+    "@types/node": "^15.12.1",
+    "ts-node": "^10.0.0",
+    "typescript": "^4.3.2"
+  },
+  "dependencies": {}
+}
